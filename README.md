@@ -22,7 +22,7 @@
 
 # REACT API BACK END <a name="hello-rails-react"></a>
 
-**REACT API BACK END** is a back end web application that displays a random json greeting message on screen.
+**REACT API BACK END** is a back end web application that displays a random json greeting message. This message is displayed by the [FRONT END](https://github.com/emmanuellmhango/rail-react-frontend.git).
 
 ## 🛠 Built With <a name="built-with"></a>
 
